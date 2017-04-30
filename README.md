@@ -1,2 +1,2 @@
 # SimpleBlog
-A RESTful web service for a simple blogging app using JAX-RS (Jersey)
+A microservice based blog engine on top of Apache Ignite
